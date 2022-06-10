@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/vitja/uart/uart_tb_isim_beh.exe" -prj "C:/Users/vitja/uart/uart_tb_beh.prj" "work.uart_tb" 
